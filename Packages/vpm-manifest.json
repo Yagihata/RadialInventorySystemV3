@@ -3,9 +3,6 @@
     "jp.lilxyzw.liltoon": {
       "version": "1.7.3"
     },
-    "yagihata.radialinventorysystem.v4": {
-      "version": "4.5.1"
-    },
     "com.vrchat.base": {
       "version": "3.6.1"
     },
@@ -17,18 +14,15 @@
     },
     "nadena.dev.modular-avatar": {
       "version": "1.9.13"
+    },
+    "yagihata.radialinventorysystem.v4": {
+      "version": "4.6.0"
     }
   },
   "locked": {
     "jp.lilxyzw.liltoon": {
       "version": "1.7.3",
       "dependencies": {}
-    },
-    "yagihata.radialinventorysystem.v4": {
-      "version": "4.5.1",
-      "dependencies": {
-        "com.vrchat.avatars": ">=3.0.0"
-      }
     },
     "com.vrchat.base": {
       "version": "3.6.1",
@@ -54,6 +48,12 @@
     "nadena.dev.ndmf": {
       "version": "1.4.1",
       "dependencies": {}
+    },
+    "yagihata.radialinventorysystem.v4": {
+      "version": "4.6.0",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.6.0"
+      }
     }
   }
 }
